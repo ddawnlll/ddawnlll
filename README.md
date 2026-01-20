@@ -14,7 +14,7 @@ I'm working primarily on system/language/web development.
 ## Notable Projects
 
 
-*   **[hhcc](https://codeberg.org/dawn_ll/hhcc)**  - Holy Holy C Language compiler which build in Python + llvmlite. _No longer maintained_
+*   **[hhcc](https://codeberg.org/dawn_ll/hhcc)**  - Holy Holy C Language compiler which written in Python + llvmlite. _No longer maintained_
 *   **[hapl](https://codeberg.org/dawn_ll/hapl):**  A programming language which every computational entity is semanticly related within themselves. 
 *   **[My Website](https://codeberg.org/dawn_ll/my-website)**: My extremely over engineered and dockerized personal blog which written in ocaml+dream in 2500 lines of code. 
 *   **[RISCV kernel development tutorials](https://codeberg.org/dawn_ll/riscv-kernel-development-tutorials)**: A tutorial series on riscv64 kernel development. It goes on blog posts and youtube videos.
