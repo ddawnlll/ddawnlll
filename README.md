@@ -3,10 +3,6 @@ https://codeberg.org/dawn_ll
 
 Here's the README.md file from codeberg .profile
 
-# Hi there!
-
-Welcome to my page.
-
 I'm working primarily on system/language/web development.
 
 ## Expertise
@@ -22,6 +18,8 @@ I'm working primarily on system/language/web development.
 *   **[hapl](https://codeberg.org/dawn_ll/hapl):**  A programming language which every computational entity is semanticly related within themselves. 
 *   **[My Website](https://codeberg.org/dawn_ll/my-website)**: My extremely over engineered and dockerized personal blog which written in ocaml+dream in 2500 lines of code. 
 *   **[RISCV kernel development tutorials](https://codeberg.org/dawn_ll/riscv-kernel-development-tutorials)**: A tutorial series on riscv64 kernel development. It goes on blog posts and youtube videos.
+*   **[TempleDE](https://codeberg.org/dawn_ll/templede)**:  Desktop enviroment for Linux (wayland)
+*   **[qc2-linux](https://codeberg.org/dawn_ll/quadcast2-linux-driver)**: Quadcast 2 Microphone Linux USB backlight driver.
 
 ## Contact
 *   **YouTube:** [http://youtube.com/@xfxpositions](http://youtube.com/@xfxpositions)
@@ -32,5 +30,7 @@ I'm working primarily on system/language/web development.
 *   **Github:** [https://github.com/dawn_ll/](https://github.com/dawn_ll/) # Only as mirror and pull requests.
 
 I welcome discussions, questions, or collaborations. Feel free to reach out via Matrix or Email.
+
+Languages that i could talk: Turkish, English, German 
 
 Side note: All of repos are primarily designed and maintained by me (myself). AI tools were used for tasks like the Makefile, documentation, and code completion. AI can either make your code better or worse, it’s just about how you use it.
