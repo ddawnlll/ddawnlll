@@ -1,5 +1,7 @@
 I write code. Systems, compilers, kernels, web apps, dev tools, terminal things. Whatever seems interesting at the time.
 
+Systems programming, language design, compiler development, and whatever rabbit hole I fall into that week. Currently rotating between Rust, Zig, C, TypeScript, Python, and questioning my life choices.
+
 ## What I Work On
 
 - Systems programming and kernel development (RISC-V, Linux)
