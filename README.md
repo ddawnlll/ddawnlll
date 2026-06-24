@@ -1,36 +1,48 @@
-Hello, you may wanna check my codeberg repo. I don't use github as main git host.
-https://codeberg.org/dawn_ll
+Well, well, well. You somehow ended up here.
 
-Here's the README.md file from codeberg .profile
+I code. Sometimes it works. Sometimes it doesn't. The ratio is about 50:50. I call that balanced.
 
-I'm working primarily on system/language/web development.
+## What I Actually Do
 
-## Expertise
-- **Frontend:** JavaScript (React, Vue, Svelte)  
-- **Backend:** Rust, Zig, C3, and C systems programming  
-- **Low-level:** Embedded systems and kernel development (Mainly on  RISC-V)
-- **Programming Language & Compiler Design:** HHCC, HOLY-APL, Abstractive Programming Theory
-- **DevOps:** Docker, cloud deployment, and infrastructure management
-## Notable Projects
+Systems programming, language design, compiler development, and whatever rabbit hole I fall into that week. Currently rotating between Rust, Zig, C, TypeScript, Python, and questioning my life choices.
 
+- Frontend: React, Vue, Svelte (yes, all of them, no I can't pick one)
+- Backend: Rust, Go, TypeScript
+- Low-level: Embedded systems, RISC-V kernel stuff, Wayland compositors
+- Compilers: HHCC, HOLY-APL, abstract interpretation nonsense
+- DevOps: Docker, cloud infra, CI/CD pipelines that somehow work
 
-*   **[hhcc](https://codeberg.org/dawn_ll/hhcc)**  - Holy Holy C Language compiler which written in Python + llvmlite. _No longer maintained_
-*   **[hapl](https://codeberg.org/dawn_ll/hapl):**  A programming language which every computational entity is semanticly related within themselves. 
-*   **[My Website](https://codeberg.org/dawn_ll/my-website)**: My extremely over engineered and dockerized personal blog which written in ocaml+dream in 2500 lines of code. 
-*   **[RISCV kernel development tutorials](https://codeberg.org/dawn_ll/riscv-kernel-development-tutorials)**: A tutorial series on riscv64 kernel development. It goes on blog posts and youtube videos.
-*   **[TempleDE](https://codeberg.org/dawn_ll/templede)**:  Desktop enviroment for Linux (wayland)
-*   **[qc2-linux](https://codeberg.org/dawn_ll/quadcast2-linux-driver)**: Quadcast 2 Microphone Linux USB backlight driver.
+## Projects That Exist
 
-## Contact
-*   **YouTube:** [http://youtube.com/@xfxpositions](http://youtube.com/@xfxpositions)
-*   **Discord:** ninetyninetyeight
-*   **Email:** dawl_ll@proton.me
-*   **Matrix:** @dawn_ll:matrix.org
-*   **Codeberg:** [https://codeberg.org/dawn_ll/](https://codeberg.org/dawn_ll/)
-*   **Github:** [https://github.com/dawn_ll/](https://github.com/dawn_ll/) # Only as mirror and pull requests.
+Some of these are useful. Some are learning exercises. Some are crimes against humanity.
 
-I welcome discussions, questions, or collaborations. Feel free to reach out via Matrix or Email.
+- **[v7-engine](https://github.com/ddawnlll/v7-engine)** - Something with Python. It exists.
+- **[my-term](https://github.com/ddawnlll/my-term)** - Kitty terminal setup with anime waifu greeting. Because terminals should be visually pleasing.
+- **[my-claude](https://github.com/ddawnlll/my-claude)** - Go-based Claude agent. OpenCode compatible.
+- **[praxis](https://github.com/ddawnlll/praxis)** - Parallel runtime for autonomous AI coding agents with evidence tracking. Sounds fancy because it is.
+- **[hhcc](https://codeberg.org/dawn_ll/hhcc)** - Holy Holy C compiler written in Python + llvmlite. No longer maintained because I value my sanity.
+- **[hapl](https://codeberg.org/dawn_ll/hapl)** - A programming language where every computational entity is semantically related. Good luck.
+- **[RISCV kernel development tutorials](https://codeberg.org/dawn_ll/riscv-kernel-development-tutorials)** - Tutorial series on riscv64 kernel development. Blog posts and YouTube videos.
+- **[TempleDE](https://codeberg.org/dawn_ll/templede)** - Wayland desktop environment. Because we need another one.
+- **[qc2-linux](https://codeberg.org/dawn_ll/quadcast2-linux-driver)** - Quadcast 2 microphone USB backlight driver for Linux. Your microphone can now glow.
+- **[trading-bot](https://github.com/ddawnlll/trading-bot)** - Automated trading. Use at your own risk. Not financial advice. Actually, it's probably terrible advice.
+- **[raycord](https://github.com/ddawnlll/raycord)** - Something in Rust. Because Rust.
 
-Languages that i could talk: Turkish, English, German 
+## Contact Methods
 
-Side note: All of repos are primarily designed and maintained by me (myself). AI tools were used for tasks like the Makefile, documentation, and code completion. AI can either make your code better or worse, it’s just about how you use it.
+I am technically reachable. Whether I respond is a separate question.
+
+- Email: dawl_ll@proton.me
+- Matrix: @dawn_ll:matrix.org
+- Discord: ninetyninetyeight
+- YouTube: http://youtube.com/@xfxpositions
+- Codeberg: https://codeberg.org/dawn_ll/
+- GitHub: https://github.com/ddawnlll/
+
+Languages I can communicate in: Turkish (native), English (fluent), German (somewhat).
+
+## Honest Disclaimer
+
+All repositories are primarily designed and maintained by me. AI tools were used for tasks like Makefiles, documentation, and code completion. AI can either make your code better or worse. It depends entirely on whether you know what you are doing.
+
+I do not. But I try anyway.
