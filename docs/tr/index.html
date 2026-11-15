@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#fbf1c7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#282828" media="(prefers-color-scheme: dark)">
+<title>ddawnlll</title>
+<meta name="description" content="derleyiciler, kernel'lar, trading altyapısı ve agent araçları. türkiye'de yaşıyorum.">
+<link rel="alternate" hreflang="en" href="https://ddawnlll.github.io/ddawnlll/">
+<link rel="alternate" hreflang="tr" href="https://ddawnlll.github.io/ddawnlll/tr/">
+<link rel="alternate" hreflang="x-default" href="https://ddawnlll.github.io/ddawnlll/">
+<style>
+:root {
+  color-scheme: light dark;
+  --bg: #fbf1c7; --fg: #3c3836; --muted: #7c6f64; --rule: #d5c4a1;
+  --link: #076678; --visited: #8f3f71; --accent: #af3a03; --code: #ebdbb2;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #282828; --fg: #ebdbb2; --muted: #a89984; --rule: #504945;
+    --link: #83a598; --visited: #d3869b; --accent: #fe8019; --code: #3c3836;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  max-width: 40em; margin: 0 auto;
+  padding: 1.5em max(1em, env(safe-area-inset-right)) 3em max(1em, env(safe-area-inset-left));
+  background: var(--bg); color: var(--fg);
+  font: 17px/1.6 Georgia, "Times New Roman", serif;
+  overflow-wrap: break-word;
+}
+a { color: var(--link); text-underline-offset: .15em; }
+a:visited { color: var(--visited); }
+a:hover { color: var(--accent); }
+h1 { font-size: 1.6em; margin: .2em 0 .6em; }
+h2 { font-size: 1em; margin: 2.2em 0 .6em; color: var(--accent); }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 1.6em 0; }
+ul { padding-left: 1.3em; }
+li { margin: .35em 0; }
+pre, code, small { font: 14px/1.45 ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+pre { background: var(--code); padding: .8em 1em; overflow-x: auto; border-radius: 3px; }
+small { color: var(--muted); }
+nav { display: flex; flex-wrap: wrap; gap: .2em 1em; }
+nav a { padding: .35em 0; }
+.lang { float: right; font: 14px ui-monospace, Menlo, Consolas, monospace; }
+::selection { background: var(--accent); color: var(--bg); }
+@media (max-width: 30em) {
+  body { font-size: 16px; padding-top: 1em; }
+  pre, code, small { font-size: 12.5px; }
+  pre { margin-left: -.4em; margin-right: -.4em; }
+}
+@media print { body { background: #fff; color: #000; } a { color: #000; } }
+</style>
+</head>
+<body>
+
+<a class="lang" href="../" hreflang="en" lang="en">english</a>
+
+<h1>ddawnlll</h1>
+
+<p>kod yazıyorum. derleyiciler, kernel'lar, trading altyapısı ve benimle bir ai agent arasında duran araçlar. o hafta hangi tavşan deliğine düşersem.</p>
+
+<p>türkiye'deyim. remote çalışmaya ya da taşınmaya (almanya) açığım. türkçe, ingilizce, biraz almanca.</p>
+
+<nav>
+<a href="https://github.com/ddawnlll">github</a>
+<a href="https://codeberg.org/dawn_ll/">codeberg</a>
+<a href="https://youtube.com/@xfxpositions">youtube</a>
+<a href="mailto:dawl_ll@proton.me">e-posta</a>
+</nav>
+
+<hr>
+
+<h2>şimdi</h2>
+
+<p>en son push ettiklerim:</p>
+
+<!-- now:start -->
+<!-- now:end -->
+
+<h2>yaptıklarım</h2>
+
+<p>düşük seviye</p>
+<ul>
+<li><a href="https://codeberg.org/dawn_ll/hhcc">hhcc</a> — holy holy c derleyicisi. python + llvmlite.</li>
+<li><a href="https://codeberg.org/dawn_ll/hapl">hapl</a> — her hesaplama varlığının anlamsal olarak birbiriyle ilişkili olduğu bir dil.</li>
+<li><a href="https://codeberg.org/dawn_ll/riscv-kernel-development-tutorials">risc-v kernel dersleri</a> — riscv64 kernel geliştirme, yazılı ve videolu anlatım.</li>
+<li><a href="https://codeberg.org/dawn_ll/templede">templede</a> — wayland masaüstü ortamı.</li>
+<li><a href="https://codeberg.org/dawn_ll/quadcast2-linux-driver">qc2-linux</a> — quadcast 2 mikrofonu için usb arka ışık sürücüsü.</li>
+<li><a href="https://github.com/ddawnlll/raycord">raycord</a> — p2p masaüstü sohbet. rust, raylib, tokio.</li>
+</ul>
+
+<p>agent araçları</p>
+<ul>
+<li><a href="https://github.com/ddawnlll/praxis">praxis</a> — bir ai kod agent'ının işi gerçekten bitirip bitirmediğini kontrol eder.</li>
+<li><a href="https://github.com/ddawnlll/hephaestus">hephaestus</a> — herhangi bir kod tabanı için iyileştirme döngüsü, praxis üzerine kurulu.</li>
+<li><a href="https://github.com/ddawnlll/my-claude">my-claude</a> — go ile yazılmış claude agent istemcisi.</li>
+</ul>
+
+<p>trading</p>
+<ul>
+<li><a href="https://github.com/ddawnlll/v7-engine">v7-engine</a> — simülasyon, alpha keşfi, rl policy critic, execution.</li>
+<li><a href="https://github.com/ddawnlll/quant-edge-lab">quant-edge-lab</a> — edge'i bulmak (ya da bulamamak) için araştırma laboratuvarı.</li>
+</ul>
+
+<p>web</p>
+<ul>
+<li><a href="https://github.com/ddawnlll/designforge">designforge</a> — url gir, yeniden tasarım planı çıksın.</li>
+<li><a href="https://ddawnlll.github.io/gebzefiber2/">gebzefiber</a> — fiber optik tamir işletmesi için site.</li>
+</ul>
+
+<h2>sayılar</h2>
+
+<!-- numbers:start -->
+<!-- numbers:end -->
+
+<h2>upstream</h2>
+
+<p>başkalarının projelerine gönderdiğim pull request'ler:</p>
+
+<!-- upstream:start -->
+<!-- upstream:end -->
+
+<h2>iletişim</h2>
+
+<p>en iyisi e-posta: <a href="mailto:dawl_ll@proton.me">dawl_ll@proton.me</a>.<br>
+matrix @dawn_ll:matrix.org, discord ninetyninetyeight.</p>
+
+<hr>
+
+<footer><small>dil başına tek html dosyası. javascript yok, çerez yok, takipçi yok. sayıları bir cron job dolduruyor.</small></footer>
+
+</body>
+</html>
