@@ -10,6 +10,12 @@ website: [ddawnlll.github.io/ddawnlll](https://ddawnlll.github.io/ddawnlll/) · 
 what i pushed to most recently. public repos only, updated every night.
 
 <!-- now:start -->
+- `2026-11-15` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
+- `2026-11-12` [quant-edge-lab](https://github.com/ddawnlll/quant-edge-lab) — Quant Edge Lab: contracts, sealed evaluator, ledger and native research pipeline (html)
+- `2026-11-12` [smc-ict-playbook](https://github.com/ddawnlll/smc-ict-playbook) — Institutional Smart Money Concepts (SMC) & ICT price action trading playbook, research library, and execution frameworks (python)
+- `2026-11-12` [SketchDL](https://github.com/ddawnlll/SketchDL) — Pencil-on-paper YouTube MP4 downloader: single-owner, zero-JavaScript, Goose + yt-dlp, verified H.264/AAC (python)
+- `2026-11-12` [FeatherNote](https://github.com/ddawnlll/FeatherNote) — Single-owner, server-rendered notes service in Zig + SQLite with FTS5 search and zero mandatory JavaScript (zig)
+- `2026-11-10` [jcode-commandcode-muse-cache](https://github.com/ddawnlll/jcode-commandcode-muse-cache) — Patch for JCode: fix KV cache misses for Meta Muse on CommandCode by using /responses with a stable prompt_cache_key (adds topics, fork-friendly) (shell)
 <!-- now:end -->
 
 ## numbers
@@ -17,6 +23,36 @@ what i pushed to most recently. public repos only, updated every night.
 counted by [a small python script](scripts/update.py) in this repo, not a widget.
 
 <!-- numbers:start -->
+```
+last 365 days
+  commits ................... 402
+  pull requests ............. 299
+  issues opened ............. 1,236
+  code reviews .............. 10
+  private contributions ..... 0
+
+all time
+  prs opened / merged ....... 299 / 201
+  issues resolved ........... 853
+  prs to other projects ..... 4 (1 merged)
+  public repos .............. 57
+
+contributions per month
+  2025-12                           2
+  2026-01                           10
+  2026-02                           0
+  2026-03                           3
+  2026-04  #                        31
+  2026-05                           8
+  2026-06  ######                   138
+  2026-07  ######################## 555
+  2026-08  ###############          348
+  2026-09  ########                 177
+  2026-10  ################         362
+  2026-11  ################         371
+
+updated 2026-11-15 utc
+```
 <!-- numbers:end -->
 
 ## upstream
@@ -24,6 +60,10 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 pull requests i sent to other people's projects:
 
 <!-- upstream:start -->
+- [1jehuang/jcode](https://github.com/1jehuang/jcode/pull/2132) — feat(provider): integrate Command Code via documented API and session-safe accounts, open
+- [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API/pull/347) — Discover Gemini Web extended thinking mode, open
+- [routatic/proxy](https://github.com/routatic/proxy/pull/79) — fix: SSE streaming reliability — heartbeat race, idle watchdog, fast-path, e2e tests, merged
+- [routatic/proxy](https://github.com/routatic/proxy/pull/78) — Fix/anthropic tool format and fallback death spiral, closed
 <!-- upstream:end -->
 
 ## things i built
