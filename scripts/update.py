@@ -78,7 +78,10 @@ def fetch():
 
     days = [d for w in cc["contributionCalendar"]["weeks"]
             for d in w["contributionDays"]]
-    upstream = search("author:%s is:pr -user:%s" % (LOGIN, LOGIN), 10)
+    up_q = "author:%s is:pr -user:%s" % (LOGIN, LOGIN)
+    upstream = search(up_q, 10)
+    # count merged separately: the item list above is capped at 10
+    upstream_merged = search(up_q + " is:merged")["total_count"]
 
     return {
         "today": now.strftime("%Y-%m-%d"),
@@ -107,6 +110,7 @@ def fetch():
         } for r in user["recent"]["nodes"] if r["name"] != LOGIN][:6],
         "upstream": {
             "total": upstream["total_count"],
+            "merged": upstream_merged,
             "items": [{
                 "repo": i["repository_url"].split("/repos/")[1],
                 "title": i["title"],
@@ -158,7 +162,9 @@ LABELS = {
 def ledger(d, lang="en"):
     t = LABELS[lang]
     y, a = d["year"], d["all"]
-    merged_up = sum(1 for i in d["upstream"]["items"] if i["state"] == "merged")
+    merged_up = d["upstream"].get("merged")
+    if merged_up is None:  # older fixtures have no separate merged count
+        merged_up = sum(1 for i in d["upstream"]["items"] if i["state"] == "merged")
     rows = [
         (t["year"], None),
         (t["commits"], n(y["commits"])),
