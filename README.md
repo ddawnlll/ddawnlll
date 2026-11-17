@@ -11,11 +11,11 @@ what i pushed to most recently. public repos only, updated every night.
 
 <!-- now:start -->
 - `2026-11-16` [FeatherNote](https://github.com/ddawnlll/FeatherNote) — Single-owner, server-rendered notes service in Zig + SQLite with FTS5 search and zero mandatory JavaScript (zig)
+- `2026-11-16` [tradelib](https://github.com/ddawnlll/tradelib) — Institutional Prop Trading Playbook & Research Library (python)
 - `2026-11-16` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
 - `2026-11-16` [SketchDL](https://github.com/ddawnlll/SketchDL) — Pencil-on-paper YouTube MP4 downloader: single-owner, zero-JavaScript, Goose + yt-dlp, verified H.264/AAC (python)
 - `2026-11-12` [quant-edge-lab](https://github.com/ddawnlll/quant-edge-lab) — Quant Edge Lab: contracts, sealed evaluator, ledger and native research pipeline (html)
 - `2026-11-12` [smc-ict-playbook](https://github.com/ddawnlll/smc-ict-playbook) — Institutional Smart Money Concepts (SMC) & ICT price action trading playbook, research library, and execution frameworks (python)
-- `2026-11-10` [jcode-commandcode-muse-cache](https://github.com/ddawnlll/jcode-commandcode-muse-cache) — Patch for JCode: fix KV cache misses for Meta Muse on CommandCode by using /responses with a stable prompt_cache_key (adds topics, fork-friendly) (shell)
 <!-- now:end -->
 
 ## numbers
@@ -25,17 +25,17 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 <!-- numbers:start -->
 ```
 last 365 days
-  commits ................... 418
-  pull requests ............. 313
-  issues opened ............. 1,245
+  commits ................... 423
+  pull requests ............. 322
+  issues opened ............. 1,246
   code reviews .............. 10
   private contributions ..... 0
 
 all time
-  prs opened / merged ....... 313 / 216
-  issues resolved ........... 856
-  prs to other projects ..... 4 (1 merged)
-  public repos .............. 57
+  prs opened / merged ....... 322 / 221
+  issues resolved ........... 865
+  prs to other projects ..... 7 (1 merged)
+  public repos .............. 59
 
 contributions per month
   2025-12                           2
@@ -49,9 +49,9 @@ contributions per month
   2026-08  ###############          348
   2026-09  ########                 177
   2026-10  ################         362
-  2026-11  ##################       410
+  2026-11  ##################       427
 
-updated 2026-11-16 utc
+updated 2026-11-17 utc
 ```
 <!-- numbers:end -->
 
@@ -60,6 +60,9 @@ updated 2026-11-16 utc
 pull requests i sent to other people's projects:
 
 <!-- upstream:start -->
+- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/19) — feat(lexer): implement here-documents (<<EOF) and here-strings (<<<), open
+- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/18) — feat(parser): implement case ... esac statements, open
+- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/17) — feat(expansion): extend arithmetic with bitwise, comparison, logical and ternary operators, open
 - [1jehuang/jcode](https://github.com/1jehuang/jcode/pull/2132) — feat(provider): integrate Command Code via documented API and session-safe accounts, open
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API/pull/347) — Discover Gemini Web extended thinking mode, open
 - [routatic/proxy](https://github.com/routatic/proxy/pull/79) — fix: SSE streaming reliability — heartbeat race, idle watchdog, fast-path, e2e tests, merged
