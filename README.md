@@ -10,9 +10,9 @@ website: [ddawnlll.github.io/ddawnlll](https://ddawnlll.github.io/ddawnlll/) · 
 what i pushed to most recently. public repos only, updated every night.
 
 <!-- now:start -->
+- `2026-11-18` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
 - `2026-11-16` [FeatherNote](https://github.com/ddawnlll/FeatherNote) — Single-owner, server-rendered notes service in Zig + SQLite with FTS5 search and zero mandatory JavaScript (zig)
 - `2026-11-16` [tradelib](https://github.com/ddawnlll/tradelib) — Institutional Prop Trading Playbook & Research Library (python)
-- `2026-11-16` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
 - `2026-11-16` [SketchDL](https://github.com/ddawnlll/SketchDL) — Pencil-on-paper YouTube MP4 downloader: single-owner, zero-JavaScript, Goose + yt-dlp, verified H.264/AAC (python)
 - `2026-11-12` [quant-edge-lab](https://github.com/ddawnlll/quant-edge-lab) — Quant Edge Lab: contracts, sealed evaluator, ledger and native research pipeline (html)
 - `2026-11-12` [smc-ict-playbook](https://github.com/ddawnlll/smc-ict-playbook) — Institutional Smart Money Concepts (SMC) & ICT price action trading playbook, research library, and execution frameworks (python)
@@ -26,13 +26,13 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 ```
 last 365 days
   commits ................... 423
-  pull requests ............. 322
-  issues opened ............. 1,246
+  pull requests ............. 323
+  issues opened ............. 1,248
   code reviews .............. 10
   private contributions ..... 0
 
 all time
-  prs opened / merged ....... 322 / 221
+  prs opened / merged ....... 323 / 221
   issues resolved ........... 865
   prs to other projects ..... 7 (1 merged)
   public repos .............. 59
@@ -49,9 +49,9 @@ contributions per month
   2026-08  ###############          348
   2026-09  ########                 177
   2026-10  ################         362
-  2026-11  ##################       427
+  2026-11  ###################      430
 
-updated 2026-11-18 utc
+updated 2026-11-19 utc
 ```
 <!-- numbers:end -->
 
