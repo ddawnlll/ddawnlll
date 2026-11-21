@@ -10,7 +10,7 @@ website: [ddawnlll.github.io/ddawnlll](https://ddawnlll.github.io/ddawnlll/) · 
 what i pushed to most recently. public repos only, updated every night.
 
 <!-- now:start -->
-- `2026-11-18` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
+- `2026-11-20` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
 - `2026-11-16` [FeatherNote](https://github.com/ddawnlll/FeatherNote) — Single-owner, server-rendered notes service in Zig + SQLite with FTS5 search and zero mandatory JavaScript (zig)
 - `2026-11-16` [tradelib](https://github.com/ddawnlll/tradelib) — Institutional Prop Trading Playbook & Research Library (python)
 - `2026-11-16` [SketchDL](https://github.com/ddawnlll/SketchDL) — Pencil-on-paper YouTube MP4 downloader: single-owner, zero-JavaScript, Goose + yt-dlp, verified H.264/AAC (python)
@@ -25,16 +25,16 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 <!-- numbers:start -->
 ```
 last 365 days
-  commits ................... 423
+  commits ................... 425
   pull requests ............. 323
   issues opened ............. 1,248
   code reviews .............. 10
   private contributions ..... 0
 
 all time
-  prs opened / merged ....... 323 / 221
+  prs opened / merged ....... 323 / 224
   issues resolved ........... 865
-  prs to other projects ..... 7 (1 merged)
+  prs to other projects ..... 7 (4 merged)
   public repos .............. 59
 
 contributions per month
@@ -49,9 +49,9 @@ contributions per month
   2026-08  ###############          348
   2026-09  ########                 177
   2026-10  ################         362
-  2026-11  ###################      430
+  2026-11  ###################      432
 
-updated 2026-11-20 utc
+updated 2026-11-21 utc
 ```
 <!-- numbers:end -->
 
@@ -60,9 +60,9 @@ updated 2026-11-20 utc
 pull requests i sent to other people's projects:
 
 <!-- upstream:start -->
-- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/19) — feat(lexer): implement here-documents (<<EOF) and here-strings (<<<), open
-- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/18) — feat(parser): implement case ... esac statements, open
-- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/17) — feat(expansion): extend arithmetic with bitwise, comparison, logical and ternary operators, open
+- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/19) — feat(lexer): implement here-documents (<<EOF) and here-strings (<<<), merged
+- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/18) — feat(parser): implement case ... esac statements, merged
+- [voidssx1/gosh](https://github.com/voidssx1/gosh/pull/17) — feat(expansion): extend arithmetic with bitwise, comparison, logical and ternary operators, merged
 - [1jehuang/jcode](https://github.com/1jehuang/jcode/pull/2132) — feat(provider): integrate Command Code via documented API and session-safe accounts, open
 - [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API/pull/347) — Discover Gemini Web extended thinking mode, open
 - [routatic/proxy](https://github.com/routatic/proxy/pull/79) — fix: SSE streaming reliability — heartbeat race, idle watchdog, fast-path, e2e tests, merged
