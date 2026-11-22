@@ -10,7 +10,7 @@ website: [ddawnlll.github.io/ddawnlll](https://ddawnlll.github.io/ddawnlll/) · 
 what i pushed to most recently. public repos only, updated every night.
 
 <!-- now:start -->
-- `2026-11-20` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
+- `2026-11-21` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
 - `2026-11-16` [FeatherNote](https://github.com/ddawnlll/FeatherNote) — Single-owner, server-rendered notes service in Zig + SQLite with FTS5 search and zero mandatory JavaScript (zig)
 - `2026-11-16` [tradelib](https://github.com/ddawnlll/tradelib) — Institutional Prop Trading Playbook & Research Library (python)
 - `2026-11-16` [SketchDL](https://github.com/ddawnlll/SketchDL) — Pencil-on-paper YouTube MP4 downloader: single-owner, zero-JavaScript, Goose + yt-dlp, verified H.264/AAC (python)
@@ -25,15 +25,15 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 <!-- numbers:start -->
 ```
 last 365 days
-  commits ................... 425
-  pull requests ............. 323
+  commits ................... 430
+  pull requests ............. 325
   issues opened ............. 1,248
   code reviews .............. 10
   private contributions ..... 0
 
 all time
-  prs opened / merged ....... 323 / 224
-  issues resolved ........... 865
+  prs opened / merged ....... 325 / 228
+  issues resolved ........... 866
   prs to other projects ..... 7 (4 merged)
   public repos .............. 59
 
@@ -49,9 +49,9 @@ contributions per month
   2026-08  ###############          348
   2026-09  ########                 177
   2026-10  ################         362
-  2026-11  ###################      432
+  2026-11  ###################      439
 
-updated 2026-11-21 utc
+updated 2026-11-22 utc
 ```
 <!-- numbers:end -->
 
