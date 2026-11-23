@@ -10,12 +10,12 @@ website: [ddawnlll.github.io/ddawnlll](https://ddawnlll.github.io/ddawnlll/) · 
 what i pushed to most recently. public repos only, updated every night.
 
 <!-- now:start -->
-- `2026-11-21` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
+- `2026-11-23` [pu](https://github.com/ddawnlll/pu) (html)
+- `2026-11-22` [jcode-mobile](https://github.com/ddawnlll/jcode-mobile) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
 - `2026-11-16` [FeatherNote](https://github.com/ddawnlll/FeatherNote) — Single-owner, server-rendered notes service in Zig + SQLite with FTS5 search and zero mandatory JavaScript (zig)
 - `2026-11-16` [tradelib](https://github.com/ddawnlll/tradelib) — Institutional Prop Trading Playbook & Research Library (python)
 - `2026-11-16` [SketchDL](https://github.com/ddawnlll/SketchDL) — Pencil-on-paper YouTube MP4 downloader: single-owner, zero-JavaScript, Goose + yt-dlp, verified H.264/AAC (python)
 - `2026-11-12` [quant-edge-lab](https://github.com/ddawnlll/quant-edge-lab) — Quant Edge Lab: contracts, sealed evaluator, ledger and native research pipeline (html)
-- `2026-11-12` [smc-ict-playbook](https://github.com/ddawnlll/smc-ict-playbook) — Institutional Smart Money Concepts (SMC) & ICT price action trading playbook, research library, and execution frameworks (python)
 <!-- now:end -->
 
 ## numbers
@@ -25,17 +25,17 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 <!-- numbers:start -->
 ```
 last 365 days
-  commits ................... 430
-  pull requests ............. 325
-  issues opened ............. 1,248
+  commits ................... 433
+  pull requests ............. 327
+  issues opened ............. 1,257
   code reviews .............. 10
   private contributions ..... 0
 
 all time
-  prs opened / merged ....... 325 / 228
+  prs opened / merged ....... 327 / 229
   issues resolved ........... 866
   prs to other projects ..... 7 (4 merged)
-  public repos .............. 59
+  public repos .............. 60
 
 contributions per month
   2025-12                           2
@@ -49,9 +49,9 @@ contributions per month
   2026-08  ###############          348
   2026-09  ########                 177
   2026-10  ################         362
-  2026-11  ###################      439
+  2026-11  ####################     454
 
-updated 2026-11-22 utc
+updated 2026-11-23 utc
 ```
 <!-- numbers:end -->
 
