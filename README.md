@@ -25,14 +25,14 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 <!-- numbers:start -->
 ```
 last 365 days
-  commits ................... 458
+  commits ................... 469
   pull requests ............. 328
-  issues opened ............. 1,257
+  issues opened ............. 1,267
   code reviews .............. 10
   private contributions ..... 0
 
 all time
-  prs opened / merged ....... 328 / 230
+  prs opened / merged ....... 328 / 231
   issues resolved ........... 866
   prs to other projects ..... 8 (5 merged)
   public repos .............. 60
@@ -49,9 +49,9 @@ contributions per month
   2026-08  ###############          348
   2026-09  ########                 177
   2026-10  ################         362
-  2026-11  #####################    480
+  2026-11  ######################   501
 
-updated 2026-11-24 utc
+updated 2026-11-25 utc
 ```
 <!-- numbers:end -->
 
