@@ -10,7 +10,7 @@ website: [ddawnlll.github.io/ddawnlll](https://ddawnlll.github.io/ddawnlll/) · 
 what i pushed to most recently. public repos only, updated every night.
 
 <!-- now:start -->
-- `2026-11-24` [pu](https://github.com/ddawnlll/pu) (go)
+- `2026-11-26` [pu](https://github.com/ddawnlll/pu) (go)
 - `2026-11-24` [ziran](https://github.com/ddawnlll/ziran) — JCode Mobile: React Native companion for JCode on a remote VPS (html)
 - `2026-11-16` [FeatherNote](https://github.com/ddawnlll/FeatherNote) — Single-owner, server-rendered notes service in Zig + SQLite with FTS5 search and zero mandatory JavaScript (zig)
 - `2026-11-16` [tradelib](https://github.com/ddawnlll/tradelib) — Institutional Prop Trading Playbook & Research Library (python)
@@ -25,7 +25,7 @@ counted by [a small python script](scripts/update.py) in this repo, not a widget
 <!-- numbers:start -->
 ```
 last 365 days
-  commits ................... 469
+  commits ................... 495
   pull requests ............. 328
   issues opened ............. 1,267
   code reviews .............. 10
@@ -49,9 +49,9 @@ contributions per month
   2026-08  ###############          348
   2026-09  ########                 177
   2026-10  ################         362
-  2026-11  ######################   501
+  2026-11  #######################  527
 
-updated 2026-11-25 utc
+updated 2026-11-26 utc
 ```
 <!-- numbers:end -->
 
